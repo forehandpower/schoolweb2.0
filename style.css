@@ -1,0 +1,10 @@
+.travel_maninDiv{
+    border: 1px solid lightgray;
+
+}
+.travel_maninDiv img{
+    width: 100%;
+}
+.travel_maninDiv hs , .travel_maninDiv p{
+    margin: 2px;
+}
